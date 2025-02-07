@@ -9,7 +9,7 @@ metrics and trends, enabling stakeholders to monitor and analyze credit card ope
 
 
 
-## SQL query to create table;
+## SQL query;
 
 -- SQL Query to create and import data from csv files:
 
@@ -17,6 +17,8 @@ metrics and trends, enabling stakeholders to monitor and analyze credit card ope
 CREATE DATABASE ccdb;
 
 -- 1. Create cc_detail table
+
+```sql
 
 CREATE TABLE cc_detail (
     Client_Num INT,
@@ -37,7 +39,7 @@ CREATE TABLE cc_detail (
     Exp_Type VARCHAR(50),
     Interest_Earned DECIMAL(10,3),
     Delinquent_Acc VARCHAR(5)
-);
+); '''
 
 
 -- 2. Create cc_detail table
@@ -59,6 +61,8 @@ CREATE TABLE cust_detail (
     Income INT,
     Cust_Satisfaction_Score INT
 );
+```
+
 --Then import data from excel.csv file into the SQL.
 
 
