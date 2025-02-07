@@ -39,7 +39,7 @@ CREATE TABLE cc_detail (
     Exp_Type VARCHAR(50),
     Interest_Earned DECIMAL(10,3),
     Delinquent_Acc VARCHAR(5)
-); '''
+);
 
 
 -- 2. Create cc_detail table
