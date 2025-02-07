@@ -1,6 +1,6 @@
 # Credit_card_Financial_Dashboard
 
-![CREDIT CARD LOGO](https://www.google.com/imgres?q=credit%20card%20logo&imgurl=http%3A%2F%2Fwww.credit-card-logos.com%2Fimages%2Fmastercard_credit-card-logos%2Fmastercard_logo_5.gif&imgrefurl=http%3A%2F%2Fwww.credit-card-logos.com%2F&docid=bOh20XWEFR57oM&tbnid=IKnD3g-5pg1LwM&vet=12ahUKEwiqzdrw3rCLAxWscmwGHRiVMm4QM3oECEIQAA..i&w=216&h=133&hcb=2&ved=2ahUKEwiqzdrw3rCLAxWscmwGHRiVMm4QM3oECEIQAA)
+![CREDIT CARD LOGO]()
 
 
 Credit Card Transaction and Customer Dashboard using Power BI
