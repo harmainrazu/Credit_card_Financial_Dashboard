@@ -1,4 +1,8 @@
 # Credit_card_Financial_Dashboard
+
+![CREDIT CARD LOGO](https://www.pngegg.com/en/png-dsvnm)
+
+
 Credit Card Transaction and Customer Dashboard using Power BI
 
 ## PROJECT OBJECTIVE:
