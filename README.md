@@ -1,6 +1,6 @@
 # Credit_card_Financial_Dashboard
 
-![CREDIT CARD LOGO]()
+![CREDIT CARD LOGO](https://github.com/harmainrazu/Credit_card_Financial_Dashboard/blob/main/images.png)
 
 
 Credit Card Transaction and Customer Dashboard using Power BI
