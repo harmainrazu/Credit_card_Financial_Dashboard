@@ -1,7 +1,7 @@
-##Credit_card_Financial_Dashboard
+# Credit_card_Financial_Dashboard
 Credit Card Transaction and Customer Dashboard using Power BI
 
-##PROJECT OBJECTIVE:
+## PROJECT OBJECTIVE:
 
 To develop a comprehensive credit card weekly dashbooard thst provides real-time insights into key performance 
 metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively. 
@@ -9,7 +9,7 @@ metrics and trends, enabling stakeholders to monitor and analyze credit card ope
 
 
 
-##SQL query to create table;
+## SQL query to create table;
 
 -- SQL Query to create and import data from csv files:
 
